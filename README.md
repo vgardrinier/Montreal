@@ -4,7 +4,7 @@
 
 Require invite, registration is free. Must have.
 
-## Reguar events for entrepreneurs
+## Regular events for entrepreneurs
 
 ### [Startup Grind Barcelona](https://www.startupgrind.com/barcelona/)
 
