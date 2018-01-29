@@ -46,5 +46,5 @@ Daysk helps professionals work remote by discovering and booking the best place 
 
 Barcinno is the collaborative platform sharing the news, knowledge & events of Barcelona’s startup, tech and innovation communities.
 
-### [Startup Diggest](http://www.startupdigest.com)
+### [Startup Diggest](https://www.startupdigest.com/digests/barcelona)
 
