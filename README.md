@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+## Community
 
-You can use the [editor on GitHub](https://github.com/StartupLanding/barcelona/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### [Startup BCN Slack channel](https://marsbased.com/startups/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Require invite, registration is free. Must have.
 
-### Markdown
+## Reguar events for entrepreneurs
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [Startup Grind Barcelona](https://www.startupgrind.com/barcelona/)
 
-```markdown
-Syntax highlighted code block
+One of the leading chapters in Europe and in the world, having been selected Chapter of the Year in 2016, with an average attendance of 120+ attendees per event, and 47 events in 43 months since April 2014. All the events are conducted in English unless explicitly advertised otherwise.
 
-# Header 1
-## Header 2
-### Header 3
+### [DrinkEntrepreneurs BCN](https://www.eventbrite.com/o/drinkentrepreneurs-bcn-15771673273)
 
-- Bulleted
-- List
+DrinkEntrepreneurs is open to everybody. Wether you have created your business or not yet. It is very simple to join: just show up at the chosen location around 7pm, that’s all!
 
-1. Numbered
-2. List
+Going to DrinkEntrepreneurs is like meeting friends for a drink: no badges, no speeches, no ceremony. Enter a group and simply join the discussion! If you’re shy, make an effort and simply say “It’s the first time I come.”
 
-**Bold** and _Italic_ and `Code` text
+## International events
 
-[Link](url) and ![Image](src)
-```
+### [4YFN](https://www.4yfn.com/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+4 Years From Now (4YFN) is the startup business platform of Mobile World Capital Barcelona that enables startups, investors and corporations to connect and launch new ventures together.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/StartupLanding/barcelona/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Public organizations of interest
 
-### Support or Contact
+### [Barcelona Activa](https://empreses.barcelonactiva.cat/en/)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Looking to set up your business in Barcelona?
+Barcelona City Council’s Business Support Office offers a Business Landing Service to accompany Barcelona-based investment projects.
+
+## Accelerator / Incubators
+
+List of the most important accelerators and incubator in the area: http://catalonia.com/en/startups-in-catalonia/startup-services/accelerators-incubators.jsp
+
+## Finding an office
+
+### [Daysk](https://app.daysk.com/list?place=Barcelona%252C%2520Spain&lat=41.3850639&long=2.1734034999999494&modality=day)
+
+Daysk helps professionals work remote by discovering and booking the best place to work from in real time. We offer a network of curated spaces and a simplified management solution. Users can find and book with a few taps, spaces can manage orders seamlessly via their Dashboard. Billing is automatic, online.
+
+## Local news / newsletters
+
+### [Barcinno](http://www.barcinno.com/)
+
+Barcinno is the collaborative platform sharing the news, knowledge & events of Barcelona’s startup, tech and innovation communities.
+
+### [Startup Diggest](http://www.startupdigest.com)
+
