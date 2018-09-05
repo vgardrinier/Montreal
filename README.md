@@ -32,7 +32,7 @@ Barcelona City Council’s Business Support Office offers a Business Landing Ser
 
 ## Accelerator / Incubators
 
-List of the most important accelerators and incubator in the area: http://catalonia.com/en/startups-in-catalonia/startup-services/accelerators-incubators.jsp
+List of the most important accelerators and incubator in the area: [here](http://catalonia.com/en/startups-in-catalonia/startup-services/accelerators-incubators.jsp)
 
 ## Finding an office
 
