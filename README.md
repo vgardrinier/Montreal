@@ -1,50 +1,72 @@
 ## Community
 
-### [Startup BCN Slack channel](https://marsbased.com/startups/)
+### [Startup MTL Slack channel](https://marsbased.com/startups/)
 
 Require invite, registration is free. Must have.
 
 ## Regular events for entrepreneurs
 
-### [Startup Grind Barcelona](https://www.startupgrind.com/barcelona/)
+### [Product Tank MTL](https://www.meetup.com/ProductTank-Montreal/?_cookie-check=_7ld60fr-JcBNvcg)
 
-One of the leading chapters in Europe and in the world, having been selected Chapter of the Year in 2016, with an average attendance of 120+ attendees per event, and 47 events in 43 months since April 2014. All the events are conducted in English unless explicitly advertised otherwise.
+Great for both founders and PMs. Events include talks from guest speakers on topics around product management, networking opportunities, and a good old-fashioned chin-wag over a beer or two.
 
-### [DrinkEntrepreneurs BCN](https://www.eventbrite.com/o/drinkentrepreneurs-bcn-15771673273)
+### [Startup Founder 101 MTL](https://www.meetup.com/Montreal-Startup-Founders-101/)
 
-DrinkEntrepreneurs is open to everybody. Wether you have created your business or not yet. It is very simple to join: just show up at the chosen location around 7pm, that’s all!
+Startup Founder 101 brings together aspiring and experienced tech entrepreneurs to discuss, meet, and collaborate to build great new startups, and to push the local startup ecosystem forward.
 
-Going to DrinkEntrepreneurs is like meeting friends for a drink: no badges, no speeches, no ceremony. Enter a group and simply join the discussion! If you’re shy, make an effort and simply say “It’s the first time I come.”
+This group hosts numerous free events throughout the year where you can learn the best practices of starting a company from people who have been there and done that. You’ll have the opportunity to meet local founders and investors, exchange ideas with experts, get feedback on your idea, participate in startup workshops, and more.
 
 ## International events
 
-### [4YFN](https://www.4yfn.com/)
+### [Startup Grind](https://www.meetup.com/Startup-Grind-Montreal/)
 
-4 Years From Now (4YFN) is the startup business platform of Mobile World Capital Barcelona that enables startups, investors and corporations to connect and launch new ventures together.
+Startup Grind is a global startup community designed to educate, inspire, and connect entrepreneurs with monthly events in 200 cities and 85 countries featuring successful local founders, innovators, & investors.
+
+### [C2 Montreal](https://www.c2montreal.com)
+
+C2 Montréal is the annual international business conference that helps established and aspiring leaders unlock their creativity in order to better face disruption and change. For 3 immersive days, bright minds from all industries connect, collaborate and build the new set of tools they need to find actionable solutions to the challenges of our times. 
+
+Not founder-focused, but definitely relevant.
 
 
 ## Public organizations of interest
 
-### [Barcelona Activa](https://empreses.barcelonactiva.cat/en/)
-
-Looking to set up your business in Barcelona?
-Barcelona City Council’s Business Support Office offers a Business Landing Service to accompany Barcelona-based investment projects.
-
 ## Accelerator / Incubators
 
-List of the most important accelerators and incubator in the area: [here](http://catalonia.com/en/startups-in-catalonia/startup-services/accelerators-incubators.jsp)
+List of the most important accelerators and incubator in the area: 
+FounderFuel - Montreal              
+
+Year one Labs - Montreal            
+
+Flow Ventures - Montreal           
+
+Bolidea - Montreal         
+
+Centech -Montréal        
+
+Centre d'entreprises et d'innovation de Montreal - Montréal    
+
+Incubateur J. -Armand-Bombardier - Montréal 
+
+Inno-Centre -Montréal
+
+NRC Biotechnology Research Institute - Montréal            
+
+TandemLaunch Technologies Inc. - Montréal     
+
+TechBA  - Montreal
+
 
 ## Finding an office
 
-### [Daysk](https://app.daysk.com/list?place=Barcelona%252C%2520Spain&lat=41.3850639&long=2.1734034999999494&modality=day)
-
-Daysk helps professionals work remote by discovering and booking the best place to work from in real time. We offer a network of curated spaces and a simplified management solution. Users can find and book with a few taps, spaces can manage orders seamlessly via their Dashboard. Billing is automatic, online.
 
 ## Local news / newsletters
 
-### [Barcinno](http://www.barcinno.com/)
+### [Montreal Gazette](https://montrealgazette.com/tag/startups)
 
-Barcinno is the collaborative platform sharing the news, knowledge & events of Barcelona’s startup, tech and innovation communities.
+Latest and current startup news in Montreal (but not only!).
 
-### [Startup Diggest](https://www.startupdigest.com/digests/barcelona)
+### [MTLinTECH](http://www.montrealintechnology.com)
+
+MTLinTECH is a news website run by a non-profit organization, created for the community focused on tech news in Montreal.
 
